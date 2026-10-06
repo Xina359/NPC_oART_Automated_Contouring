@@ -1,0 +1,13 @@
+NPC-oART-Automated-Contouring - version 2.1.0
+
+Project attribution: https://github.com/Xina359/NPC-oART-Automated-Contouring
+The Apache License 2.0 text is retained unchanged in LICENSE.
+
+This distribution provides workbook reading, numerical analysis, figure
+rendering, optional image input and release-integrity checks.
+
+The software licence does not grant rights in proprietary uTPS software,
+contouring models, model weights or nonpublic medical data. The bundled study
+CSV subset retains its stated reproduction purpose; no new data licence or
+model-access permission is assigned by this notice. Access to restricted study
+materials and models follows the associated manuscript and applicable rights.

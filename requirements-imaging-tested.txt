@@ -1,0 +1,4 @@
+# Optional imaging constraints used with requirements-tested.txt.
+# The RTSTRUCT path uses pydicom and NumPy; rt-utils is not required.
+SimpleITK==2.5.6
+pydicom==3.0.2

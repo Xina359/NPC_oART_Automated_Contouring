@@ -1,0 +1,8 @@
+# Validated core/test constraints: Windows 11, Python 3.12.14.
+# Use -c to constrain an editable install.
+numpy==2.3.5
+scipy==1.17.0
+matplotlib==3.10.8
+Pillow==12.3.0
+pytest==9.0.2
+setuptools==82.0.1

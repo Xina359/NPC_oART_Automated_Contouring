@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "npc-oart-automated-contouring"
+version = "2.1.0"
+description = "Public numerical analysis and Extended Data figure reproduction for NPC oART"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {file = "LICENSE"}
+dependencies = ["numpy>=2.0,<3", "scipy>=1.13,<2", "matplotlib>=3.9,<4", "Pillow>=10,<13"]
+
+[project.optional-dependencies]
+imaging = ["SimpleITK>=2.3,<3", "pydicom>=3,<4"]
+test = ["pytest>=8,<10"]
+
+[project.scripts]
+npc-oart-automated-contouring = "oart_analysis.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["oart_analysis*"]
+
+[tool.setuptools.package-data]
+oart_analysis = ["data/*.csv", "data/*.json", "data/*.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["workbook: requires the author's local complete Source Data workbook", "imaging: requires optional imaging dependencies"]

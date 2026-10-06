@@ -1,0 +1,24 @@
+{
+  "cases": [
+    {
+      "study_id": "LOCAL_DEIDENTIFIED_ID",
+      "model_state": "LOCAL_PREDICTION",
+      "format": "labelmap",
+      "reference_path": "REPLACE_WITH_REFERENCE.nii.gz",
+      "prediction_path": "REPLACE_WITH_PREDICTION.nii.gz",
+      "rois": [
+        {
+          "name": "Example bilateral ROI",
+          "reference_labels": [
+            1,
+            2
+          ],
+          "prediction_labels": [
+            1,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

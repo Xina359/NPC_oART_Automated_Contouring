@@ -1,0 +1,109 @@
+Centre,Study ID,ROI,Strategy,Metric,Value,Unit,source_row
+Main centre,MC_R032,GTVn,Image-only baseline,DSC,0.65749999999999997,unitless,2
+Main centre,MC_R032,GTVn,Image-only baseline,HD95,7.6200999999999999,mm,3
+Main centre,MC_R032,GTVn,Image-only baseline,ASD,1.3162,mm,4
+Main centre,MC_R032,GTVn,Direct DIR propagation,DSC,0.67269999999999996,unitless,5
+Main centre,MC_R032,GTVn,Direct DIR propagation,HD95,6.9844999999999997,mm,6
+Main centre,MC_R032,GTVn,Direct DIR propagation,ASD,2.2513999999999998,mm,7
+Main centre,MC_R032,GTVn,PCG-UNet,DSC,0.71530000000000005,unitless,8
+Main centre,MC_R032,GTVn,PCG-UNet,HD95,6.4946999999999999,mm,9
+Main centre,MC_R032,GTVn,PCG-UNet,ASD,1.2134,mm,10
+Main centre,MC_R034,GTVn,Image-only baseline,DSC,0.63839999999999997,unitless,11
+Main centre,MC_R034,GTVn,Image-only baseline,HD95,7.7363,mm,12
+Main centre,MC_R034,GTVn,Image-only baseline,ASD,1.4673,mm,13
+Main centre,MC_R034,GTVn,Direct DIR propagation,DSC,0.64929999999999999,unitless,14
+Main centre,MC_R034,GTVn,Direct DIR propagation,HD95,7.1921999999999997,mm,15
+Main centre,MC_R034,GTVn,Direct DIR propagation,ASD,1.3454999999999999,mm,16
+Main centre,MC_R034,GTVn,PCG-UNet,DSC,0.67149999999999999,unitless,17
+Main centre,MC_R034,GTVn,PCG-UNet,HD95,7.0589000000000004,mm,18
+Main centre,MC_R034,GTVn,PCG-UNet,ASD,1.3156000000000001,mm,19
+Main centre,MC_R035,GTVn,Image-only baseline,DSC,0.65700000000000003,unitless,20
+Main centre,MC_R035,GTVn,Image-only baseline,HD95,7.7279999999999998,mm,21
+Main centre,MC_R035,GTVn,Image-only baseline,ASD,1.4063000000000001,mm,22
+Main centre,MC_R035,GTVn,Direct DIR propagation,DSC,0.66710000000000003,unitless,23
+Main centre,MC_R035,GTVn,Direct DIR propagation,HD95,7.1327999999999996,mm,24
+Main centre,MC_R035,GTVn,Direct DIR propagation,ASD,2.3067000000000002,mm,25
+Main centre,MC_R035,GTVn,PCG-UNet,DSC,0.71760000000000002,unitless,26
+Main centre,MC_R035,GTVn,PCG-UNet,HD95,6.7195,mm,27
+Main centre,MC_R035,GTVn,PCG-UNet,ASD,1.2575000000000001,mm,28
+Main centre,MC_R036,GTVn,Image-only baseline,DSC,0.67789999999999995,unitless,29
+Main centre,MC_R036,GTVn,Image-only baseline,HD95,6.7394999999999996,mm,30
+Main centre,MC_R036,GTVn,Image-only baseline,ASD,1.2432000000000001,mm,31
+Main centre,MC_R036,GTVn,Direct DIR propagation,DSC,0.69840000000000002,unitless,32
+Main centre,MC_R036,GTVn,Direct DIR propagation,HD95,5.9249000000000001,mm,33
+Main centre,MC_R036,GTVn,Direct DIR propagation,ASD,1.3541000000000001,mm,34
+Main centre,MC_R036,GTVn,PCG-UNet,DSC,0.73450000000000004,unitless,35
+Main centre,MC_R036,GTVn,PCG-UNet,HD95,5.7740999999999998,mm,36
+Main centre,MC_R036,GTVn,PCG-UNet,ASD,1.0839000000000001,mm,37
+Main centre,MC_R031,GTVn,Image-only baseline,DSC,0.72819999999999996,unitless,38
+Main centre,MC_R031,GTVn,Image-only baseline,HD95,6.0869,mm,39
+Main centre,MC_R031,GTVn,Image-only baseline,ASD,1.3801000000000001,mm,40
+Main centre,MC_R031,GTVn,Direct DIR propagation,DSC,0.75619999999999998,unitless,41
+Main centre,MC_R031,GTVn,Direct DIR propagation,HD95,5.3860000000000001,mm,42
+Main centre,MC_R031,GTVn,Direct DIR propagation,ASD,1.2251000000000001,mm,43
+Main centre,MC_R031,GTVn,PCG-UNet,DSC,0.79830000000000001,unitless,44
+Main centre,MC_R031,GTVn,PCG-UNet,HD95,5.1955,mm,45
+Main centre,MC_R031,GTVn,PCG-UNet,ASD,1.1852,mm,46
+Main centre,MC_R038,GTVn,Image-only baseline,DSC,0.76170000000000004,unitless,47
+Main centre,MC_R038,GTVn,Image-only baseline,HD95,6.4082999999999997,mm,48
+Main centre,MC_R038,GTVn,Image-only baseline,ASD,1.0137,mm,49
+Main centre,MC_R038,GTVn,Direct DIR propagation,DSC,0.77510000000000001,unitless,50
+Main centre,MC_R038,GTVn,Direct DIR propagation,HD95,5.7557999999999998,mm,51
+Main centre,MC_R038,GTVn,Direct DIR propagation,ASD,2.9117999999999999,mm,52
+Main centre,MC_R038,GTVn,PCG-UNet,DSC,0.82699999999999996,unitless,53
+Main centre,MC_R038,GTVn,PCG-UNet,HD95,5.5483000000000002,mm,54
+Main centre,MC_R038,GTVn,PCG-UNet,ASD,0.86660000000000004,mm,55
+Main centre,MC_R037,GTVn,Image-only baseline,DSC,0.66869999999999996,unitless,56
+Main centre,MC_R037,GTVn,Image-only baseline,HD95,6.7038000000000002,mm,57
+Main centre,MC_R037,GTVn,Image-only baseline,ASD,1.1452,mm,58
+Main centre,MC_R037,GTVn,Direct DIR propagation,DSC,0.61480000000000001,unitless,59
+Main centre,MC_R037,GTVn,Direct DIR propagation,HD95,5.8552999999999997,mm,60
+Main centre,MC_R037,GTVn,Direct DIR propagation,ASD,1.0536000000000001,mm,61
+Main centre,MC_R037,GTVn,PCG-UNet,DSC,0.72619999999999996,unitless,62
+Main centre,MC_R037,GTVn,PCG-UNet,HD95,5.5911999999999997,mm,63
+Main centre,MC_R037,GTVn,PCG-UNet,ASD,1.0078,mm,64
+Main centre,MC_R033,GTVn,Image-only baseline,DSC,0.72360000000000002,unitless,65
+Main centre,MC_R033,GTVn,Image-only baseline,HD95,5.7370000000000001,mm,66
+Main centre,MC_R033,GTVn,Image-only baseline,ASD,1.0519000000000001,mm,67
+Main centre,MC_R033,GTVn,Direct DIR propagation,DSC,0.73609999999999998,unitless,68
+Main centre,MC_R033,GTVn,Direct DIR propagation,HD95,5.1501000000000001,mm,69
+Main centre,MC_R033,GTVn,Direct DIR propagation,ASD,1.9475,mm,70
+Main centre,MC_R033,GTVn,PCG-UNet,DSC,0.78869999999999996,unitless,71
+Main centre,MC_R033,GTVn,PCG-UNet,HD95,4.9672000000000001,mm,72
+Main centre,MC_R033,GTVn,PCG-UNet,ASD,0.91080000000000005,mm,73
+Main centre,MC_R039,GTVn,Image-only baseline,DSC,0.75409999999999999,unitless,74
+Main centre,MC_R039,GTVn,Image-only baseline,HD95,5.5414000000000003,mm,75
+Main centre,MC_R039,GTVn,Image-only baseline,ASD,1.2232000000000001,mm,76
+Main centre,MC_R039,GTVn,Direct DIR propagation,DSC,0.76949999999999996,unitless,77
+Main centre,MC_R039,GTVn,Direct DIR propagation,HD95,4.7427999999999999,mm,78
+Main centre,MC_R039,GTVn,Direct DIR propagation,ASD,1.0563,mm,79
+Main centre,MC_R039,GTVn,PCG-UNet,DSC,0.80769999999999997,unitless,80
+Main centre,MC_R039,GTVn,PCG-UNet,HD95,4.2416999999999998,mm,81
+Main centre,MC_R039,GTVn,PCG-UNet,ASD,1.0119,mm,82
+Main centre,MC_R030,GTVn,Image-only baseline,DSC,0.59819999999999995,unitless,83
+Main centre,MC_R030,GTVn,Image-only baseline,HD95,8.2026000000000003,mm,84
+Main centre,MC_R030,GTVn,Image-only baseline,ASD,1.4118999999999999,mm,85
+Main centre,MC_R030,GTVn,Direct DIR propagation,DSC,0.60540000000000005,unitless,86
+Main centre,MC_R030,GTVn,Direct DIR propagation,HD95,7.7538,mm,87
+Main centre,MC_R030,GTVn,Direct DIR propagation,ASD,1.3319000000000001,mm,88
+Main centre,MC_R030,GTVn,PCG-UNet,DSC,0.62180000000000002,unitless,89
+Main centre,MC_R030,GTVn,PCG-UNet,HD95,7.5350000000000001,mm,90
+Main centre,MC_R030,GTVn,PCG-UNet,ASD,1.3162,mm,91
+Main centre,MC_R040,GTVn,Image-only baseline,DSC,0.74319999999999997,unitless,92
+Main centre,MC_R040,GTVn,Image-only baseline,HD95,6.0115999999999996,mm,93
+Main centre,MC_R040,GTVn,Image-only baseline,ASD,1.2185999999999999,mm,94
+Main centre,MC_R040,GTVn,Direct DIR propagation,DSC,0.75209999999999999,unitless,95
+Main centre,MC_R040,GTVn,Direct DIR propagation,HD95,5.1703000000000001,mm,96
+Main centre,MC_R040,GTVn,Direct DIR propagation,ASD,1.0265,mm,97
+Main centre,MC_R040,GTVn,PCG-UNet,DSC,0.77000000000000002,unitless,98
+Main centre,MC_R040,GTVn,PCG-UNet,HD95,4.9584999999999999,mm,99
+Main centre,MC_R040,GTVn,PCG-UNet,ASD,0.98729999999999996,mm,100
+Main centre,MC_R041,GTVn,Image-only baseline,DSC,0.67149999999999999,unitless,101
+Main centre,MC_R041,GTVn,Image-only baseline,HD95,6.9645999999999999,mm,102
+Main centre,MC_R041,GTVn,Image-only baseline,ASD,1.1224000000000001,mm,103
+Main centre,MC_R041,GTVn,Direct DIR propagation,DSC,0.70860000000000001,unitless,104
+Main centre,MC_R041,GTVn,Direct DIR propagation,HD95,6.2434000000000003,mm,105
+Main centre,MC_R041,GTVn,Direct DIR propagation,ASD,1.0622,mm,106
+Main centre,MC_R041,GTVn,PCG-UNet,DSC,0.75690000000000002,unitless,107
+Main centre,MC_R041,GTVn,PCG-UNet,HD95,5.6775000000000002,mm,108
+Main centre,MC_R041,GTVn,PCG-UNet,ASD,1.0233000000000001,mm,109

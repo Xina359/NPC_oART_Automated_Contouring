@@ -1,0 +1,51 @@
+{
+  "profile_id": "source-data-2026-10-06-v2.1.0",
+  "schema_version": 1,
+  "code_version": "2.1.0",
+  "source_filename": "Source_data.xlsx",
+  "source_workbook_sha256": "f8fb9417ee299f19d72df7da49c4aed29fb8b74797d0122bfe262aff33c6af3b",
+  "source_strategy_worksheet": "Extended Data Fig. 4 GTVn compa",
+  "strategy_internal_key": "Fig S4 GTVn comparison",
+  "fingerprint_scheme": "ooxml-stored-cells-v1",
+  "data_values_sha256": "065df1d9c89b0016810457a7c4cb47880ea91b98227099cb88dcb1a61240a644",
+  "data_sheets_sha256": {
+    "Table S4": "c999c0abcc1afc50974a749b1477d47b946355e85f8a2fc0ef616cf74e350d75",
+    "Table S5": "b84aa31ddd39fe19d42d68563e210927c9eab3f0e0fc94765e360ca78f37c9b7",
+    "Retrospective patient metrics": "3fd734b6a2961724947f85bc594983c6664b8612e832f27b6d8b8ff2a3cb5465",
+    "Patient-level OAR averages": "e77c16a3ec2468d404223ba251bce5fa1b494558c942adf9ec8205939ff20b4b",
+    "Prospective patient metrics": "35796f0352006c0e1eb2af089b2e67456034be5bfed82472755fda9797af2648",
+    "Prospective timing": "82f7b9d7ac87b865e6b539b5f2554fa37dcd952949fac5d892aedb161d5a9ca9",
+    "External-centre summary": "02e6f5048451a858d394057e1b0f8c1651f6fefd4a621805d7f58bf5aba3fd66",
+    "Fig S4 GTVn comparison": "726f869c2707c5a6ba839fb8f9f6e95d9ff18553164b93ca5429e0047fdba779"
+  },
+  "worksheet_names": [
+    "README",
+    "Table S4",
+    "Table S5",
+    "Retrospective patient metrics",
+    "Patient-level OAR averages",
+    "Prospective patient metrics",
+    "Prospective timing",
+    "External-centre summary",
+    "Extended Data Fig. 4 GTVn compa"
+  ],
+  "formula_cells_present": false,
+  "strategy_headers": [
+    "Centre",
+    "Study ID",
+    "ROI",
+    "Strategy",
+    "Metric",
+    "Value",
+    "Unit"
+  ],
+  "strategy_summary_headers": [
+    "Strategy",
+    "Metric",
+    "n",
+    "Mean",
+    "Sample SD",
+    "Unit"
+  ],
+  "scope": "Identity fingerprints only. No workbook, patient records, images or model weights in this file. Layout and README changes do not alter the stored-data fingerprint."
+}

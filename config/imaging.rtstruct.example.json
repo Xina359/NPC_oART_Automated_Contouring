@@ -1,0 +1,25 @@
+{
+  "cases": [
+    {
+      "study_id": "LOCAL_DEIDENTIFIED_ID",
+      "model_state": "LOCAL_PREDICTION",
+      "format": "rtstruct",
+      "reference_path": "REPLACE_WITH_REFERENCE_RTSTRUCT.dcm",
+      "prediction_path": "REPLACE_WITH_PREDICTION_RTSTRUCT.dcm",
+      "rois": [
+        {
+          "name": "Example bilateral ROI",
+          "reference_rois": [
+            "ExactLeftName",
+            "ExactRightName"
+          ],
+          "prediction_rois": [
+            "ExactLeftName",
+            "ExactRightName"
+          ]
+        }
+      ],
+      "ct_directory": "REPLACE_WITH_CT_ONLY_DIRECTORY"
+    }
+  ]
+}
